@@ -2,38 +2,46 @@
 
 WIKI for the MAI (Master of Afdvanced Interaction) of IAAC (Institute of Advanced Architecture of Catalonia)
 
+///////////////////////////////////////////////////
+index:
+
 1. FACULTY
-	About
+	1.1 About
 
-	Personal
-	Students
-	Alumni
+	1.2 Personal
+	1.3 Students
+	1.4 Alumni
 
-	Seminars
-	Lectures
-	Projects
-	Research Trips
+	1.5 Seminars
+	1.6 Lectures
+	1.7 Projects
+	1.8 Research Trips
 
-	Infrastructure
+	1.9 Infrastructure
 
 2. RESOURCES
-	TECHNOLOGY
-		Hardware
-		Software
-		Data
-		Materials
-	WHERE TO FIND IT
-		Online Shops
-		Local Shops
+	2.1 Technology
+		2.1.1 Hardware
+		2.1.2 Software
+		2.1.3 Data
+		2.1.4 Materials
+	2.2 Where to find it
+		2.2.1 Online Shops
+		2.2.2 Local Shops
 
 3. ENTITIES
-	Institutions
-	Companies
+	3.1 Institutions
+	3.2 Companies
 
 4. EVENTS
-	Conferences
-	Festivals
-	Competitions&Calls
+	4.1 Conferences
+	4.2 Festivals
+	4.3 Competitions&Calls
 
 5. REFERENTS
-	Artists/Collectives/Projects
+	5.1 Artists/Collectives/Projects
+
+////////////////////////////////////////////////
+
+UPLOAD FILES
+
