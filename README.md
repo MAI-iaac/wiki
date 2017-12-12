@@ -1,9 +1,11 @@
 # wiki
 
 MAI (Master of Afdvanced Interaction)
-IAAC (Institute of Advanced Architecture of Catalonia)
+ IAAC (Institute of Advanced Architecture of Catalonia)
 
-////// A. WIKI INDEX
+---
+
+A. WIKI INDEX
 
 1. FACULTY
 
@@ -46,9 +48,9 @@ IAAC (Institute of Advanced Architecture of Catalonia)
 
 5.1 Artists/Collectives/Projects
 
+---
 
-
-////// B. UPLOAD FILES FROM GITHUB
+B. UPLOAD FILES FROM GITHUB
 
 
 
